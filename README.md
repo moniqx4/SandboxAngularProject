@@ -1,2 +1,0 @@
-# SandboxAngularProject
-Created with CodeSandbox
